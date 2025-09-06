@@ -1,1 +1,1 @@
-# lista-2-exerc-cio
+# lista-2-exercecio
